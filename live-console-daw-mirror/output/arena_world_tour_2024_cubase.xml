@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<tracklist version="8.0">
+  <track type="AudioTrack">
+    <name>Kick In</name>
+    <channel>1</channel>
+    <group>DRUMS</group>
+    <trackType>mono</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Kick Out</name>
+    <channel>2</channel>
+    <group>DRUMS</group>
+    <trackType>mono</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Snare Top</name>
+    <channel>3</channel>
+    <group>DRUMS</group>
+    <trackType>mono</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Snare Bot</name>
+    <channel>4</channel>
+    <group>DRUMS</group>
+    <trackType>mono</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Hi Hat</name>
+    <channel>5</channel>
+    <group>DRUMS</group>
+    <trackType>mono</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Ride</name>
+    <channel>6</channel>
+    <group>DRUMS</group>
+    <trackType>mono</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Tom 1</name>
+    <channel>7</channel>
+    <group>DRUMS</group>
+    <trackType>mono</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Tom 2</name>
+    <channel>8</channel>
+    <group>DRUMS</group>
+    <trackType>mono</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Tom 3</name>
+    <channel>9</channel>
+    <group>DRUMS</group>
+    <trackType>mono</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Floor Tom</name>
+    <channel>10</channel>
+    <group>DRUMS</group>
+    <trackType>mono</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>OH L</name>
+    <channel>11</channel>
+    <group>DRUMS</group>
+    <trackType>stereo</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+    <stereoPair>12</stereoPair>
+  </track>
+  <track type="AudioTrack">
+    <name>OH R</name>
+    <channel>12</channel>
+    <group>DRUMS</group>
+    <trackType>stereo</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+    <stereoPair>11</stereoPair>
+  </track>
+  <track type="AudioTrack">
+    <name>Room L</name>
+    <channel>13</channel>
+    <group>DRUMS</group>
+    <trackType>stereo</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+    <stereoPair>14</stereoPair>
+  </track>
+  <track type="AudioTrack">
+    <name>Room R</name>
+    <channel>14</channel>
+    <group>DRUMS</group>
+    <trackType>stereo</trackType>
+    <color>#C0392B</color>
+    <output>Main LR</output>
+    <stereoPair>13</stereoPair>
+  </track>
+  <track type="AudioTrack">
+    <name>Bass DI</name>
+    <channel>15</channel>
+    <group>BASS</group>
+    <trackType>mono</trackType>
+    <color>#E67E22</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Bass Amp</name>
+    <channel>16</channel>
+    <group>BASS</group>
+    <trackType>mono</trackType>
+    <color>#E67E22</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>GTR L</name>
+    <channel>17</channel>
+    <group>GUITARS</group>
+    <trackType>stereo</trackType>
+    <color>#27AE60</color>
+    <output>Main LR</output>
+    <stereoPair>18</stereoPair>
+  </track>
+  <track type="AudioTrack">
+    <name>GTR R</name>
+    <channel>18</channel>
+    <group>GUITARS</group>
+    <trackType>stereo</trackType>
+    <color>#27AE60</color>
+    <output>Main LR</output>
+    <stereoPair>17</stereoPair>
+  </track>
+  <track type="AudioTrack">
+    <name>Keys L</name>
+    <channel>19</channel>
+    <group>KEYS</group>
+    <trackType>stereo</trackType>
+    <color>#8E44AD</color>
+    <output>Main LR</output>
+    <stereoPair>20</stereoPair>
+  </track>
+  <track type="AudioTrack">
+    <name>Keys R</name>
+    <channel>20</channel>
+    <group>KEYS</group>
+    <trackType>stereo</trackType>
+    <color>#8E44AD</color>
+    <output>Main LR</output>
+    <stereoPair>19</stereoPair>
+  </track>
+  <track type="AudioTrack">
+    <name>Piano L</name>
+    <channel>21</channel>
+    <group>KEYS</group>
+    <trackType>stereo</trackType>
+    <color>#8E44AD</color>
+    <output>Main LR</output>
+    <stereoPair>22</stereoPair>
+  </track>
+  <track type="AudioTrack">
+    <name>Piano R</name>
+    <channel>22</channel>
+    <group>KEYS</group>
+    <trackType>stereo</trackType>
+    <color>#8E44AD</color>
+    <output>Main LR</output>
+    <stereoPair>21</stereoPair>
+  </track>
+  <track type="AudioTrack">
+    <name>Lead Vox</name>
+    <channel>23</channel>
+    <group>VOCALS</group>
+    <trackType>mono</trackType>
+    <color>#2980B9</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>BGV 1</name>
+    <channel>24</channel>
+    <group>VOCALS</group>
+    <trackType>mono</trackType>
+    <color>#2980B9</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>BGV 2</name>
+    <channel>25</channel>
+    <group>VOCALS</group>
+    <trackType>mono</trackType>
+    <color>#2980B9</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>BGV 3</name>
+    <channel>26</channel>
+    <group>VOCALS</group>
+    <trackType>mono</trackType>
+    <color>#2980B9</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Trumpet 1</name>
+    <channel>27</channel>
+    <group>BRASS</group>
+    <trackType>mono</trackType>
+    <color>#F1C40F</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Trumpet 2</name>
+    <channel>28</channel>
+    <group>BRASS</group>
+    <trackType>mono</trackType>
+    <color>#F1C40F</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Trombone</name>
+    <channel>29</channel>
+    <group>BRASS</group>
+    <trackType>mono</trackType>
+    <color>#F1C40F</color>
+    <output>Main LR</output>
+  </track>
+  <track type="AudioTrack">
+    <name>Bari Sax</name>
+    <channel>30</channel>
+    <group>BRASS</group>
+    <trackType>mono</trackType>
+    <color>#F1C40F</color>
+    <output>Main LR</output>
+  </track>
+</tracklist>

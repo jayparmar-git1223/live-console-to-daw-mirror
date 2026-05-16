@@ -1,0 +1,600 @@
+SESSION NAME:	Arena World Tour 2024
+SAMPLE RATE:	48000
+BIT DEPTH:	24-bit
+SESSION START TIMECODE:	00:00:00:00
+TIMECODE FORMAT:	25 Frame
+# OF AUDIO TRACKS:	30
+# OF AUDIO CLIPS:	0
+# OF AUDIO FILES:	0
+
+F I L E S   I N   S E S S I O N
+────────────────────────────────────────
+(No audio files — template session)
+
+O N L I N E   C L I P S   I N   S E S S I O N
+────────────────────────────────────────
+(No clips — template session)
+
+P L U G - I N S   L I S T E D   A S   I N S E R T S
+────────────────────────────────────────
+(No plug-ins — template session)
+
+T R A C K   L I S T I N G
+────────────────────────────────────────
+
+TRACK NAME:	Kick In
+COMMENTS:	CH 1 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 1	Input 1	In1	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Kick In
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Kick Out
+COMMENTS:	CH 2 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 2	Input 2	In2	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Kick Out
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Snare Top
+COMMENTS:	CH 3 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 3	Input 3	In3	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Snare Top
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Snare Bot
+COMMENTS:	CH 4 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 4	Input 4	In4	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Snare Bot
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Hi Hat
+COMMENTS:	CH 5 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 5	Input 5	In5	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Hi Hat
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Ride
+COMMENTS:	CH 6 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 6	Input 6	In6	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Ride
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Tom 1
+COMMENTS:	CH 7 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 7	Input 7	In7	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Tom 1
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Tom 2
+COMMENTS:	CH 8 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 8	Input 8	In8	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Tom 2
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Tom 3
+COMMENTS:	CH 9 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 9	Input 9	In9	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Tom 3
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Floor Tom
+COMMENTS:	CH 10 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 10	Input 10	In10	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Floor Tom
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	OH L
+COMMENTS:	CH 11 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Stereo	Input 11	Input 11	In11	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: OH L
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	OH R
+COMMENTS:	CH 12 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Stereo	Input 12	Input 12	In12	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: OH R
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Room L
+COMMENTS:	CH 13 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Stereo	Input 13	Input 13	In13	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Room L
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Room R
+COMMENTS:	CH 14 | DRUMS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Stereo	Input 14	Input 14	In14	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Room R
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Bass DI
+COMMENTS:	CH 15 | BASS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 15	Input 15	In15	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Bass DI
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Bass Amp
+COMMENTS:	CH 16 | BASS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 16	Input 16	In16	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Bass Amp
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	GTR L
+COMMENTS:	CH 17 | GUITARS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Stereo	Input 17	Input 17	In17	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: GTR L
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	GTR R
+COMMENTS:	CH 18 | GUITARS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Stereo	Input 18	Input 18	In18	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: GTR R
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Keys L
+COMMENTS:	CH 19 | KEYS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Stereo	Input 19	Input 19	In19	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Keys L
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Keys R
+COMMENTS:	CH 20 | KEYS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Stereo	Input 20	Input 20	In20	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Keys R
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Piano L
+COMMENTS:	CH 21 | KEYS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Stereo	Input 21	Input 21	In21	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Piano L
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Piano R
+COMMENTS:	CH 22 | KEYS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Stereo	Input 22	Input 22	In22	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Piano R
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Lead Vox
+COMMENTS:	CH 23 | VOCALS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 23	Input 23	In23	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Lead Vox
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	BGV 1
+COMMENTS:	CH 24 | VOCALS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 24	Input 24	In24	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: BGV 1
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	BGV 2
+COMMENTS:	CH 25 | VOCALS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 25	Input 25	In25	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: BGV 2
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	BGV 3
+COMMENTS:	CH 26 | VOCALS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 26	Input 26	In26	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: BGV 3
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Trumpet 1
+COMMENTS:	CH 27 | BRASS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 27	Input 27	In27	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Trumpet 1
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Trumpet 2
+COMMENTS:	CH 28 | BRASS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 28	Input 28	In28	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Trumpet 2
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Trombone
+COMMENTS:	CH 29 | BRASS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 29	Input 29	In29	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Trombone
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+TRACK NAME:	Bari Sax
+COMMENTS:	CH 30 | BRASS | Source: DiGiCo
+USER DELAY:	0 Samples
+STATE:		Active
+PLUG-INS:	
+I/O:
+I/O	IO Type	SH Name	SH Long Name	SH Short Name	Mapping
+input	Mono	Input 30	Input 30	In30	
+output	Stereo	Master 1	Master 1	Mstr	
+
+CHANNEL AND SEND AUTOMATION
+(No automation — template session)
+
+MAIN PLAYLIST: Bari Sax
+Name	Start	End	Duration	Timestamp	FPS
+(No clips)
+
+────────────────────────────────────────
+
+M A R K E R S   L I S T I N G
+────────────────────────────────────────
+#	Location	Time Reference	Units	Name	Comments
+1	00:00:00:00	0	Bars|Beats	Start	Generated by Live Console DAW Mirror
+
+# Generated by Live Console DAW Mirror | Console: DiGiCo | 2026-05-16 17:40:11

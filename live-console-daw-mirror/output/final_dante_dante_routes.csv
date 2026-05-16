@@ -1,0 +1,36 @@
+# Dante Controller Route Export
+# Session: Arena World Tour 2024
+# Console: DiGiCo
+# Generated: 2026-05-16 17:40
+#
+Transmitter Device,Transmitter Channel,Receiver Device,Receiver Channel
+"Console","Kick In O01","DAW Interface","Kick In I01"
+"Console","Kick Out O02","DAW Interface","Kick Out I02"
+"Console","Snare Top O03","DAW Interface","Snare Top I03"
+"Console","Snare Bot O04","DAW Interface","Snare Bot I04"
+"Console","Hi Hat O05","DAW Interface","Hi Hat I05"
+"Console","Ride O06","DAW Interface","Ride I06"
+"Console","Tom 1 O07","DAW Interface","Tom 1 I07"
+"Console","Tom 2 O08","DAW Interface","Tom 2 I08"
+"Console","Tom 3 O09","DAW Interface","Tom 3 I09"
+"Console","Floor Tom O10","DAW Interface","Floor Tom I10"
+"Console","OH L O11","DAW Interface","OH L I11"
+"Console","OH R O12","DAW Interface","OH R I12"
+"Console","Room L O13","DAW Interface","Room L I13"
+"Console","Room R O14","DAW Interface","Room R I14"
+"Console","Bass DI O15","DAW Interface","Bass DI I15"
+"Console","Bass Amp O16","DAW Interface","Bass Amp I16"
+"Console","GTR L O17","DAW Interface","GTR L I17"
+"Console","GTR R O18","DAW Interface","GTR R I18"
+"Console","Keys L O19","DAW Interface","Keys L I19"
+"Console","Keys R O20","DAW Interface","Keys R I20"
+"Console","Piano L O21","DAW Interface","Piano L I21"
+"Console","Piano R O22","DAW Interface","Piano R I22"
+"Console","Lead Vox O23","DAW Interface","Lead Vox I23"
+"Console","BGV 1 O24","DAW Interface","BGV 1 I24"
+"Console","BGV 2 O25","DAW Interface","BGV 2 I25"
+"Console","BGV 3 O26","DAW Interface","BGV 3 I26"
+"Console","Trumpet 1 O27","DAW Interface","Trumpet 1 I27"
+"Console","Trumpet 2 O28","DAW Interface","Trumpet 2 I28"
+"Console","Trombone O29","DAW Interface","Trombone I29"
+"Console","Bari Sax O30","DAW Interface","Bari Sax I30"

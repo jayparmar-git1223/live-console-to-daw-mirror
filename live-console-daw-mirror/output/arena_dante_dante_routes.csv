@@ -1,0 +1,36 @@
+# Dante Controller Route Export
+# Session: Arena World Tour 2024
+# Console: DiGiCo
+# Generated: 2026-05-16 17:37
+#
+Transmitter Device,Transmitter Channel,Receiver Device,Receiver Channel
+"DiGiCo SD10","Kick In O01","MADI Bridge","Kick In I01"
+"DiGiCo SD10","Kick Out O02","MADI Bridge","Kick Out I02"
+"DiGiCo SD10","Snare Top O03","MADI Bridge","Snare Top I03"
+"DiGiCo SD10","Snare Bot O04","MADI Bridge","Snare Bot I04"
+"DiGiCo SD10","Hi Hat O05","MADI Bridge","Hi Hat I05"
+"DiGiCo SD10","Ride O06","MADI Bridge","Ride I06"
+"DiGiCo SD10","Tom 1 O07","MADI Bridge","Tom 1 I07"
+"DiGiCo SD10","Tom 2 O08","MADI Bridge","Tom 2 I08"
+"DiGiCo SD10","Tom 3 O09","MADI Bridge","Tom 3 I09"
+"DiGiCo SD10","Floor Tom O10","MADI Bridge","Floor Tom I10"
+"DiGiCo SD10","OH L O11","MADI Bridge","OH L I11"
+"DiGiCo SD10","OH R O12","MADI Bridge","OH R I12"
+"DiGiCo SD10","Room L O13","MADI Bridge","Room L I13"
+"DiGiCo SD10","Room R O14","MADI Bridge","Room R I14"
+"DiGiCo SD10","Bass DI O15","MADI Bridge","Bass DI I15"
+"DiGiCo SD10","Bass Amp O16","MADI Bridge","Bass Amp I16"
+"DiGiCo SD10","GTR L O17","MADI Bridge","GTR L I17"
+"DiGiCo SD10","GTR R O18","MADI Bridge","GTR R I18"
+"DiGiCo SD10","Keys L O19","MADI Bridge","Keys L I19"
+"DiGiCo SD10","Keys R O20","MADI Bridge","Keys R I20"
+"DiGiCo SD10","Piano L O21","MADI Bridge","Piano L I21"
+"DiGiCo SD10","Piano R O22","MADI Bridge","Piano R I22"
+"DiGiCo SD10","Lead Vox O23","MADI Bridge","Lead Vox I23"
+"DiGiCo SD10","BGV 1 O24","MADI Bridge","BGV 1 I24"
+"DiGiCo SD10","BGV 2 O25","MADI Bridge","BGV 2 I25"
+"DiGiCo SD10","BGV 3 O26","MADI Bridge","BGV 3 I26"
+"DiGiCo SD10","Trumpet 1 O27","MADI Bridge","Trumpet 1 I27"
+"DiGiCo SD10","Trumpet 2 O28","MADI Bridge","Trumpet 2 I28"
+"DiGiCo SD10","Trombone O29","MADI Bridge","Trombone I29"
+"DiGiCo SD10","Bari Sax O30","MADI Bridge","Bari Sax I30"

@@ -1,0 +1,58 @@
+================================================================
+DANTE PATCH SHEET
+Session:     Arena World Tour 2024
+Console:     DiGiCo
+TX Device:   Console
+RX Device:   DAW Interface
+Sample Rate: 48000 Hz
+Latency:     1.0 ms
+================================================================
+
+   CH  NAME                      TX → RX
+────────────────────────────────────────────────────────────────
+
+  ── DRUMS ──
+    1  Kick In                   Console/Kick In O01 → DAW Interface/Kick In I01
+    2  Kick Out                  Console/Kick Out O02 → DAW Interface/Kick Out I02
+    3  Snare Top                 Console/Snare Top O03 → DAW Interface/Snare Top I03
+    4  Snare Bot                 Console/Snare Bot O04 → DAW Interface/Snare Bot I04
+    5  Hi Hat                    Console/Hi Hat O05 → DAW Interface/Hi Hat I05
+    6  Ride                      Console/Ride O06 → DAW Interface/Ride I06
+    7  Tom 1                     Console/Tom 1 O07 → DAW Interface/Tom 1 I07
+    8  Tom 2                     Console/Tom 2 O08 → DAW Interface/Tom 2 I08
+    9  Tom 3                     Console/Tom 3 O09 → DAW Interface/Tom 3 I09
+   10  Floor Tom                 Console/Floor Tom O10 → DAW Interface/Floor Tom I10
+   11  OH L                      Console/OH L O11 → DAW Interface/OH L I11
+   12  OH R                      Console/OH R O12 → DAW Interface/OH R I12
+   13  Room L                    Console/Room L O13 → DAW Interface/Room L I13
+   14  Room R                    Console/Room R O14 → DAW Interface/Room R I14
+
+  ── BASS ──
+   15  Bass DI                   Console/Bass DI O15 → DAW Interface/Bass DI I15
+   16  Bass Amp                  Console/Bass Amp O16 → DAW Interface/Bass Amp I16
+
+  ── GUITARS ──
+   17  GTR L                     Console/GTR L O17 → DAW Interface/GTR L I17
+   18  GTR R                     Console/GTR R O18 → DAW Interface/GTR R I18
+
+  ── KEYS ──
+   19  Keys L                    Console/Keys L O19 → DAW Interface/Keys L I19
+   20  Keys R                    Console/Keys R O20 → DAW Interface/Keys R I20
+   21  Piano L                   Console/Piano L O21 → DAW Interface/Piano L I21
+   22  Piano R                   Console/Piano R O22 → DAW Interface/Piano R I22
+
+  ── VOCALS ──
+   23  Lead Vox                  Console/Lead Vox O23 → DAW Interface/Lead Vox I23
+   24  BGV 1                     Console/BGV 1 O24 → DAW Interface/BGV 1 I24
+   25  BGV 2                     Console/BGV 2 O25 → DAW Interface/BGV 2 I25
+   26  BGV 3                     Console/BGV 3 O26 → DAW Interface/BGV 3 I26
+
+  ── BRASS ──
+   27  Trumpet 1                 Console/Trumpet 1 O27 → DAW Interface/Trumpet 1 I27
+   28  Trumpet 2                 Console/Trumpet 2 O28 → DAW Interface/Trumpet 2 I28
+   29  Trombone                  Console/Trombone O29 → DAW Interface/Trombone I29
+   30  Bari Sax                  Console/Bari Sax O30 → DAW Interface/Bari Sax I30
+
+================================================================
+Live Console → DAW Mirror
+================================================================

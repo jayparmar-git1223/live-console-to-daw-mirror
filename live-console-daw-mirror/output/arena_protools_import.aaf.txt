@@ -1,0 +1,72 @@
+AAF METADATA DESCRIPTION
+========================
+This file describes the structure of an AAF session.
+For real AAF export, install python-aaf2.
+
+CompositionMob.name = 'Arena World Tour 2024'
+Header.sampleRate = 48000
+Header.byteOrder = Little-Endian
+
+MasterMobs:
+  MasterMob.name = 'Kick In' (CH 1)
+  MasterMob.name = 'Kick Out' (CH 2)
+  MasterMob.name = 'Snare Top' (CH 3)
+  MasterMob.name = 'Snare Bot' (CH 4)
+  MasterMob.name = 'Hi Hat' (CH 5)
+  MasterMob.name = 'Ride' (CH 6)
+  MasterMob.name = 'Tom 1' (CH 7)
+  MasterMob.name = 'Tom 2' (CH 8)
+  MasterMob.name = 'Tom 3' (CH 9)
+  MasterMob.name = 'Floor Tom' (CH 10)
+  MasterMob.name = 'OH L' (CH 11)
+  MasterMob.name = 'OH R' (CH 12)
+  MasterMob.name = 'Room L' (CH 13)
+  MasterMob.name = 'Room R' (CH 14)
+  MasterMob.name = 'Bass DI' (CH 15)
+  MasterMob.name = 'Bass Amp' (CH 16)
+  MasterMob.name = 'GTR L' (CH 17)
+  MasterMob.name = 'GTR R' (CH 18)
+  MasterMob.name = 'Keys L' (CH 19)
+  MasterMob.name = 'Keys R' (CH 20)
+  MasterMob.name = 'Piano L' (CH 21)
+  MasterMob.name = 'Piano R' (CH 22)
+  MasterMob.name = 'Lead Vox' (CH 23)
+  MasterMob.name = 'BGV 1' (CH 24)
+  MasterMob.name = 'BGV 2' (CH 25)
+  MasterMob.name = 'BGV 3' (CH 26)
+  MasterMob.name = 'Trumpet 1' (CH 27)
+  MasterMob.name = 'Trumpet 2' (CH 28)
+  MasterMob.name = 'Trombone' (CH 29)
+  MasterMob.name = 'Bari Sax' (CH 30)
+
+CompositionMob.Slots:
+  Slot[0].name = 'Kick In' type=MobSlot.Audio.Mono
+  Slot[1].name = 'Kick Out' type=MobSlot.Audio.Mono
+  Slot[2].name = 'Snare Top' type=MobSlot.Audio.Mono
+  Slot[3].name = 'Snare Bot' type=MobSlot.Audio.Mono
+  Slot[4].name = 'Hi Hat' type=MobSlot.Audio.Mono
+  Slot[5].name = 'Ride' type=MobSlot.Audio.Mono
+  Slot[6].name = 'Tom 1' type=MobSlot.Audio.Mono
+  Slot[7].name = 'Tom 2' type=MobSlot.Audio.Mono
+  Slot[8].name = 'Tom 3' type=MobSlot.Audio.Mono
+  Slot[9].name = 'Floor Tom' type=MobSlot.Audio.Mono
+  Slot[10].name = 'OH L' type=MobSlot.Audio.Stereo
+  Slot[11].name = 'OH R' type=MobSlot.Audio.Stereo
+  Slot[12].name = 'Room L' type=MobSlot.Audio.Stereo
+  Slot[13].name = 'Room R' type=MobSlot.Audio.Stereo
+  Slot[14].name = 'Bass DI' type=MobSlot.Audio.Mono
+  Slot[15].name = 'Bass Amp' type=MobSlot.Audio.Mono
+  Slot[16].name = 'GTR L' type=MobSlot.Audio.Stereo
+  Slot[17].name = 'GTR R' type=MobSlot.Audio.Stereo
+  Slot[18].name = 'Keys L' type=MobSlot.Audio.Stereo
+  Slot[19].name = 'Keys R' type=MobSlot.Audio.Stereo
+  Slot[20].name = 'Piano L' type=MobSlot.Audio.Stereo
+  Slot[21].name = 'Piano R' type=MobSlot.Audio.Stereo
+  Slot[22].name = 'Lead Vox' type=MobSlot.Audio.Mono
+  Slot[23].name = 'BGV 1' type=MobSlot.Audio.Mono
+  Slot[24].name = 'BGV 2' type=MobSlot.Audio.Mono
+  Slot[25].name = 'BGV 3' type=MobSlot.Audio.Mono
+  Slot[26].name = 'Trumpet 1' type=MobSlot.Audio.Mono
+  Slot[27].name = 'Trumpet 2' type=MobSlot.Audio.Mono
+  Slot[28].name = 'Trombone' type=MobSlot.Audio.Mono
+  Slot[29].name = 'Bari Sax' type=MobSlot.Audio.Mono

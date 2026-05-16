@@ -1,0 +1,310 @@
+{
+  "session": "Arena World Tour 2024",
+  "console": "DiGiCo",
+  "console_device": "Console",
+  "daw_device": "DAW Interface",
+  "sample_rate": 48000,
+  "latency_ms": 1.0,
+  "channels": [
+    {
+      "channel": 1,
+      "name": "Kick In",
+      "dante_tx": "Console/Kick In O01",
+      "dante_rx": "DAW Interface/Kick In I01",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 2,
+      "name": "Kick Out",
+      "dante_tx": "Console/Kick Out O02",
+      "dante_rx": "DAW Interface/Kick Out I02",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 3,
+      "name": "Snare Top",
+      "dante_tx": "Console/Snare Top O03",
+      "dante_rx": "DAW Interface/Snare Top I03",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 4,
+      "name": "Snare Bot",
+      "dante_tx": "Console/Snare Bot O04",
+      "dante_rx": "DAW Interface/Snare Bot I04",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 5,
+      "name": "Hi Hat",
+      "dante_tx": "Console/Hi Hat O05",
+      "dante_rx": "DAW Interface/Hi Hat I05",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 6,
+      "name": "Ride",
+      "dante_tx": "Console/Ride O06",
+      "dante_rx": "DAW Interface/Ride I06",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 7,
+      "name": "Tom 1",
+      "dante_tx": "Console/Tom 1 O07",
+      "dante_rx": "DAW Interface/Tom 1 I07",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 8,
+      "name": "Tom 2",
+      "dante_tx": "Console/Tom 2 O08",
+      "dante_rx": "DAW Interface/Tom 2 I08",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 9,
+      "name": "Tom 3",
+      "dante_tx": "Console/Tom 3 O09",
+      "dante_rx": "DAW Interface/Tom 3 I09",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 10,
+      "name": "Floor Tom",
+      "dante_tx": "Console/Floor Tom O10",
+      "dante_rx": "DAW Interface/Floor Tom I10",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 11,
+      "name": "OH L",
+      "dante_tx": "Console/OH L O11",
+      "dante_rx": "DAW Interface/OH L I11",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 12,
+      "name": "OH R",
+      "dante_tx": "Console/OH R O12",
+      "dante_rx": "DAW Interface/OH R I12",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 13,
+      "name": "Room L",
+      "dante_tx": "Console/Room L O13",
+      "dante_rx": "DAW Interface/Room L I13",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 14,
+      "name": "Room R",
+      "dante_tx": "Console/Room R O14",
+      "dante_rx": "DAW Interface/Room R I14",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 15,
+      "name": "Bass DI",
+      "dante_tx": "Console/Bass DI O15",
+      "dante_rx": "DAW Interface/Bass DI I15",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "BASS"
+    },
+    {
+      "channel": 16,
+      "name": "Bass Amp",
+      "dante_tx": "Console/Bass Amp O16",
+      "dante_rx": "DAW Interface/Bass Amp I16",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "BASS"
+    },
+    {
+      "channel": 17,
+      "name": "GTR L",
+      "dante_tx": "Console/GTR L O17",
+      "dante_rx": "DAW Interface/GTR L I17",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "GUITARS"
+    },
+    {
+      "channel": 18,
+      "name": "GTR R",
+      "dante_tx": "Console/GTR R O18",
+      "dante_rx": "DAW Interface/GTR R I18",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "GUITARS"
+    },
+    {
+      "channel": 19,
+      "name": "Keys L",
+      "dante_tx": "Console/Keys L O19",
+      "dante_rx": "DAW Interface/Keys L I19",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "KEYS"
+    },
+    {
+      "channel": 20,
+      "name": "Keys R",
+      "dante_tx": "Console/Keys R O20",
+      "dante_rx": "DAW Interface/Keys R I20",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "KEYS"
+    },
+    {
+      "channel": 21,
+      "name": "Piano L",
+      "dante_tx": "Console/Piano L O21",
+      "dante_rx": "DAW Interface/Piano L I21",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "KEYS"
+    },
+    {
+      "channel": 22,
+      "name": "Piano R",
+      "dante_tx": "Console/Piano R O22",
+      "dante_rx": "DAW Interface/Piano R I22",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "KEYS"
+    },
+    {
+      "channel": 23,
+      "name": "Lead Vox",
+      "dante_tx": "Console/Lead Vox O23",
+      "dante_rx": "DAW Interface/Lead Vox I23",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "VOCALS"
+    },
+    {
+      "channel": 24,
+      "name": "BGV 1",
+      "dante_tx": "Console/BGV 1 O24",
+      "dante_rx": "DAW Interface/BGV 1 I24",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "VOCALS"
+    },
+    {
+      "channel": 25,
+      "name": "BGV 2",
+      "dante_tx": "Console/BGV 2 O25",
+      "dante_rx": "DAW Interface/BGV 2 I25",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "VOCALS"
+    },
+    {
+      "channel": 26,
+      "name": "BGV 3",
+      "dante_tx": "Console/BGV 3 O26",
+      "dante_rx": "DAW Interface/BGV 3 I26",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "VOCALS"
+    },
+    {
+      "channel": 27,
+      "name": "Trumpet 1",
+      "dante_tx": "Console/Trumpet 1 O27",
+      "dante_rx": "DAW Interface/Trumpet 1 I27",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "BRASS"
+    },
+    {
+      "channel": 28,
+      "name": "Trumpet 2",
+      "dante_tx": "Console/Trumpet 2 O28",
+      "dante_rx": "DAW Interface/Trumpet 2 I28",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "BRASS"
+    },
+    {
+      "channel": 29,
+      "name": "Trombone",
+      "dante_tx": "Console/Trombone O29",
+      "dante_rx": "DAW Interface/Trombone I29",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "BRASS"
+    },
+    {
+      "channel": 30,
+      "name": "Bari Sax",
+      "dante_tx": "Console/Bari Sax O30",
+      "dante_rx": "DAW Interface/Bari Sax I30",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "BRASS"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "session": "Arena World Tour 2024",
+  "console": "DiGiCo",
+  "console_device": "DiGiCo SD10",
+  "daw_device": "MADI Bridge",
+  "sample_rate": 48000,
+  "latency_ms": 1.0,
+  "channels": [
+    {
+      "channel": 1,
+      "name": "Kick In",
+      "dante_tx": "DiGiCo SD10/Kick In O01",
+      "dante_rx": "MADI Bridge/Kick In I01",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 2,
+      "name": "Kick Out",
+      "dante_tx": "DiGiCo SD10/Kick Out O02",
+      "dante_rx": "MADI Bridge/Kick Out I02",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 3,
+      "name": "Snare Top",
+      "dante_tx": "DiGiCo SD10/Snare Top O03",
+      "dante_rx": "MADI Bridge/Snare Top I03",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 4,
+      "name": "Snare Bot",
+      "dante_tx": "DiGiCo SD10/Snare Bot O04",
+      "dante_rx": "MADI Bridge/Snare Bot I04",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 5,
+      "name": "Hi Hat",
+      "dante_tx": "DiGiCo SD10/Hi Hat O05",
+      "dante_rx": "MADI Bridge/Hi Hat I05",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 6,
+      "name": "Ride",
+      "dante_tx": "DiGiCo SD10/Ride O06",
+      "dante_rx": "MADI Bridge/Ride I06",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 7,
+      "name": "Tom 1",
+      "dante_tx": "DiGiCo SD10/Tom 1 O07",
+      "dante_rx": "MADI Bridge/Tom 1 I07",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 8,
+      "name": "Tom 2",
+      "dante_tx": "DiGiCo SD10/Tom 2 O08",
+      "dante_rx": "MADI Bridge/Tom 2 I08",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 9,
+      "name": "Tom 3",
+      "dante_tx": "DiGiCo SD10/Tom 3 O09",
+      "dante_rx": "MADI Bridge/Tom 3 I09",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 10,
+      "name": "Floor Tom",
+      "dante_tx": "DiGiCo SD10/Floor Tom O10",
+      "dante_rx": "MADI Bridge/Floor Tom I10",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 11,
+      "name": "OH L",
+      "dante_tx": "DiGiCo SD10/OH L O11",
+      "dante_rx": "MADI Bridge/OH L I11",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 12,
+      "name": "OH R",
+      "dante_tx": "DiGiCo SD10/OH R O12",
+      "dante_rx": "MADI Bridge/OH R I12",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 13,
+      "name": "Room L",
+      "dante_tx": "DiGiCo SD10/Room L O13",
+      "dante_rx": "MADI Bridge/Room L I13",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 14,
+      "name": "Room R",
+      "dante_tx": "DiGiCo SD10/Room R O14",
+      "dante_rx": "MADI Bridge/Room R I14",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "DRUMS"
+    },
+    {
+      "channel": 15,
+      "name": "Bass DI",
+      "dante_tx": "DiGiCo SD10/Bass DI O15",
+      "dante_rx": "MADI Bridge/Bass DI I15",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "BASS"
+    },
+    {
+      "channel": 16,
+      "name": "Bass Amp",
+      "dante_tx": "DiGiCo SD10/Bass Amp O16",
+      "dante_rx": "MADI Bridge/Bass Amp I16",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "BASS"
+    },
+    {
+      "channel": 17,
+      "name": "GTR L",
+      "dante_tx": "DiGiCo SD10/GTR L O17",
+      "dante_rx": "MADI Bridge/GTR L I17",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "GUITARS"
+    },
+    {
+      "channel": 18,
+      "name": "GTR R",
+      "dante_tx": "DiGiCo SD10/GTR R O18",
+      "dante_rx": "MADI Bridge/GTR R I18",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "GUITARS"
+    },
+    {
+      "channel": 19,
+      "name": "Keys L",
+      "dante_tx": "DiGiCo SD10/Keys L O19",
+      "dante_rx": "MADI Bridge/Keys L I19",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "KEYS"
+    },
+    {
+      "channel": 20,
+      "name": "Keys R",
+      "dante_tx": "DiGiCo SD10/Keys R O20",
+      "dante_rx": "MADI Bridge/Keys R I20",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "KEYS"
+    },
+    {
+      "channel": 21,
+      "name": "Piano L",
+      "dante_tx": "DiGiCo SD10/Piano L O21",
+      "dante_rx": "MADI Bridge/Piano L I21",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "KEYS"
+    },
+    {
+      "channel": 22,
+      "name": "Piano R",
+      "dante_tx": "DiGiCo SD10/Piano R O22",
+      "dante_rx": "MADI Bridge/Piano R I22",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "KEYS"
+    },
+    {
+      "channel": 23,
+      "name": "Lead Vox",
+      "dante_tx": "DiGiCo SD10/Lead Vox O23",
+      "dante_rx": "MADI Bridge/Lead Vox I23",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "VOCALS"
+    },
+    {
+      "channel": 24,
+      "name": "BGV 1",
+      "dante_tx": "DiGiCo SD10/BGV 1 O24",
+      "dante_rx": "MADI Bridge/BGV 1 I24",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "VOCALS"
+    },
+    {
+      "channel": 25,
+      "name": "BGV 2",
+      "dante_tx": "DiGiCo SD10/BGV 2 O25",
+      "dante_rx": "MADI Bridge/BGV 2 I25",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "VOCALS"
+    },
+    {
+      "channel": 26,
+      "name": "BGV 3",
+      "dante_tx": "DiGiCo SD10/BGV 3 O26",
+      "dante_rx": "MADI Bridge/BGV 3 I26",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "VOCALS"
+    },
+    {
+      "channel": 27,
+      "name": "Trumpet 1",
+      "dante_tx": "DiGiCo SD10/Trumpet 1 O27",
+      "dante_rx": "MADI Bridge/Trumpet 1 I27",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "BRASS"
+    },
+    {
+      "channel": 28,
+      "name": "Trumpet 2",
+      "dante_tx": "DiGiCo SD10/Trumpet 2 O28",
+      "dante_rx": "MADI Bridge/Trumpet 2 I28",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "BRASS"
+    },
+    {
+      "channel": 29,
+      "name": "Trombone",
+      "dante_tx": "DiGiCo SD10/Trombone O29",
+      "dante_rx": "MADI Bridge/Trombone I29",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "BRASS"
+    },
+    {
+      "channel": 30,
+      "name": "Bari Sax",
+      "dante_tx": "DiGiCo SD10/Bari Sax O30",
+      "dante_rx": "MADI Bridge/Bari Sax I30",
+      "sample_rate": 48000,
+      "bit_depth": 24,
+      "latency_ms": 1.0,
+      "group": "BRASS"
+    }
+  ]
+}

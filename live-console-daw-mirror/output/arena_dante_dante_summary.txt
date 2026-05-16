@@ -1,0 +1,58 @@
+================================================================
+DANTE PATCH SHEET
+Session:     Arena World Tour 2024
+Console:     DiGiCo
+TX Device:   DiGiCo SD10
+RX Device:   MADI Bridge
+Sample Rate: 48000 Hz
+Latency:     1.0 ms
+================================================================
+
+   CH  NAME                      TX → RX
+────────────────────────────────────────────────────────────────
+
+  ── DRUMS ──
+    1  Kick In                   DiGiCo SD10/Kick In O01 → MADI Bridge/Kick In I01
+    2  Kick Out                  DiGiCo SD10/Kick Out O02 → MADI Bridge/Kick Out I02
+    3  Snare Top                 DiGiCo SD10/Snare Top O03 → MADI Bridge/Snare Top I03
+    4  Snare Bot                 DiGiCo SD10/Snare Bot O04 → MADI Bridge/Snare Bot I04
+    5  Hi Hat                    DiGiCo SD10/Hi Hat O05 → MADI Bridge/Hi Hat I05
+    6  Ride                      DiGiCo SD10/Ride O06 → MADI Bridge/Ride I06
+    7  Tom 1                     DiGiCo SD10/Tom 1 O07 → MADI Bridge/Tom 1 I07
+    8  Tom 2                     DiGiCo SD10/Tom 2 O08 → MADI Bridge/Tom 2 I08
+    9  Tom 3                     DiGiCo SD10/Tom 3 O09 → MADI Bridge/Tom 3 I09
+   10  Floor Tom                 DiGiCo SD10/Floor Tom O10 → MADI Bridge/Floor Tom I10
+   11  OH L                      DiGiCo SD10/OH L O11 → MADI Bridge/OH L I11
+   12  OH R                      DiGiCo SD10/OH R O12 → MADI Bridge/OH R I12
+   13  Room L                    DiGiCo SD10/Room L O13 → MADI Bridge/Room L I13
+   14  Room R                    DiGiCo SD10/Room R O14 → MADI Bridge/Room R I14
+
+  ── BASS ──
+   15  Bass DI                   DiGiCo SD10/Bass DI O15 → MADI Bridge/Bass DI I15
+   16  Bass Amp                  DiGiCo SD10/Bass Amp O16 → MADI Bridge/Bass Amp I16
+
+  ── GUITARS ──
+   17  GTR L                     DiGiCo SD10/GTR L O17 → MADI Bridge/GTR L I17
+   18  GTR R                     DiGiCo SD10/GTR R O18 → MADI Bridge/GTR R I18
+
+  ── KEYS ──
+   19  Keys L                    DiGiCo SD10/Keys L O19 → MADI Bridge/Keys L I19
+   20  Keys R                    DiGiCo SD10/Keys R O20 → MADI Bridge/Keys R I20
+   21  Piano L                   DiGiCo SD10/Piano L O21 → MADI Bridge/Piano L I21
+   22  Piano R                   DiGiCo SD10/Piano R O22 → MADI Bridge/Piano R I22
+
+  ── VOCALS ──
+   23  Lead Vox                  DiGiCo SD10/Lead Vox O23 → MADI Bridge/Lead Vox I23
+   24  BGV 1                     DiGiCo SD10/BGV 1 O24 → MADI Bridge/BGV 1 I24
+   25  BGV 2                     DiGiCo SD10/BGV 2 O25 → MADI Bridge/BGV 2 I25
+   26  BGV 3                     DiGiCo SD10/BGV 3 O26 → MADI Bridge/BGV 3 I26
+
+  ── BRASS ──
+   27  Trumpet 1                 DiGiCo SD10/Trumpet 1 O27 → MADI Bridge/Trumpet 1 I27
+   28  Trumpet 2                 DiGiCo SD10/Trumpet 2 O28 → MADI Bridge/Trumpet 2 I28
+   29  Trombone                  DiGiCo SD10/Trombone O29 → MADI Bridge/Trombone I29
+   30  Bari Sax                  DiGiCo SD10/Bari Sax O30 → MADI Bridge/Bari Sax I30
+
+================================================================
+Live Console → DAW Mirror
+================================================================
